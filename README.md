@@ -5,6 +5,8 @@ This project is called "Information website of the 111th academic year of CSIE g
 This website is designed for everyone who want to know information about CSIE graduate school.
 This site include test subjects, admission score, acceptance rate, etc.
 <hr/>
+<h4>Entity Relational Diagram：</h4>
+
 
 
 <h4>Member List:</h4>
